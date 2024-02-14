@@ -51,5 +51,5 @@ Para usar o aplicativo, você pode clicar no botão "Adicionar nota" e escolher 
 
 As notas são exibidas em uma lista na página principal. Você pode clicar em uma nota para ver os detalhes, editar o texto ou excluí-la. Você também pode pesquisar notas por palavras-chave usando a barra de pesquisa.
 
-![NLW Expert Notes](./src/assets/img.png "Model Car")
+![NLW Expert Notes](./src/assets/img.png "NLW Expert Notes")
 
