@@ -14,7 +14,7 @@ O NLW Expert Notes foi desenvolvido durante a NLW Expert, a primeira NLW da Rock
 
 ## Demo
 
-Você pode ver uma demonstração do aplicativo no seguinte link: [NLW Expert Notes](^1^)
+Você pode ver uma demonstração do aplicativo no seguinte link: [NLW Expert Notes](https://nlw-expert-notes-silk.vercel.app)
 
 ## Instalação
 
